@@ -1,0 +1,12 @@
+
+
+environment.systemPackages = with pkgs [ xfce.xfce4-datetime-plugin
+                                        xfce.xfce4-clipman-plugin
+                                        xfce.xfce4-pulseaudio-plugin
+                                        xfce.xfwm4-themes
+                                        xfce.xfce4-whiskermenu-plugin
+                                        xfce.xfce4-weather-plugin
+                                        xfce.xfce4-volumed-pulse
+
+                                        xfce.xfce4-battery-plugin
+                                        ];
